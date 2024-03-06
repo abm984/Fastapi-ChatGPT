@@ -1,4 +1,8 @@
 # Fastapi-ChatGPT
+#to check occurance just run the app.py file in end like
+```
+python app.py
+```
 This app is Backend Functon of code snippet 
 for instance to require & use we need to clone the repositpry
 ```
