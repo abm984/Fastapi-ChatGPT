@@ -17,3 +17,8 @@ to run the Program
 ```
 python main.py
 ```
+now we need to Docker this app 
+so we might need to deploy over AWS or using CODE build services 
+```
+docker build -t abm . && docker run -it abm
+```
